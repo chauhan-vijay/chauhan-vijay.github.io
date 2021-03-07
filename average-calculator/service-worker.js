@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.e13a70285abd5a746ed4f68ca727f88a.js"
+  "/average-calculator/precache-manifest.417a5e4bbbd5e04983a0174ed02f9e14.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "average-calculator-vue"});
